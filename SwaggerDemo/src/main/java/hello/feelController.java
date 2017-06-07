@@ -16,7 +16,6 @@ import java.util.Map;
 public class feelController {
 
     static Map<Long, FeelUser> users = Collections.synchronizedMap(new HashMap<Long, FeelUser>());
-
     @ApiOperation(value = "测试" ,nickname = "测试")
     @RequestMapping(value = "/first" ,produces = "application/json")
     public String getList(@PathVariable String name){
