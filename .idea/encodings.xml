@@ -2,6 +2,12 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JackSonDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PoiDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SelenniumDemo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SwaggerDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestSele" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springdemo" charset="UTF-8" />
   </component>
 </project>

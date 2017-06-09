@@ -6,12 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SwaggerDemo" />
+        <module name="PoiDemo" />
+        <module name="SelenniumDemo" />
+        <module name="springdemo" />
+        <module name="Tools" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="SwaggerDemo" target="1.6" />
+      <module name="JackSonDemo" target="1.6" />
+      <module name="PoiDemo" target="1.6" />
+      <module name="SelenniumDemo" target="1.8" />
+      <module name="springdemo" target="1.8" />
+      <module name="SwaggerDemo" target="1.8" />
       <module name="TecDemo" target="1.6" />
+      <module name="TestSele" target="1.6" />
+      <module name="Tools" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.docx4j:docx4j:3.3.3">
+    <CLASSES>
+      <root url="jar://E:/DEV-TOOLS/m2/org/docx4j/docx4j/3.3.3/docx4j-3.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/DEV-TOOLS/m2/org/docx4j/docx4j/3.3.3/docx4j-3.3.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/DEV-TOOLS/m2/org/docx4j/docx4j/3.3.3/docx4j-3.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

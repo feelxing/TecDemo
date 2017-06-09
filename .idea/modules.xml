@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SwaggerDemo/SwaggerDemo.iml" filepath="$PROJECT_DIR$/SwaggerDemo/SwaggerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PoiDemo/PoiDemo.iml" filepath="$PROJECT_DIR$/PoiDemo/PoiDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelenniumDemo/SelenniumDemo.iml" filepath="$PROJECT_DIR$/SelenniumDemo/SelenniumDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/TecDemo.iml" filepath="$PROJECT_DIR$/TecDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tools/Tools.iml" filepath="$PROJECT_DIR$/Tools/Tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdemo/springdemo.iml" filepath="$PROJECT_DIR$/springdemo/springdemo.iml" />
     </modules>
   </component>
 </project>
